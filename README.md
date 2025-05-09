@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Steve Keago
 
-I'm a passionate Frontend Developer and Mechanical Engineering graduate from Kenya, blending creativity and technical skills to build meaningful digital experiences.
+I'm a passionate Frontend Developer and Mechanical Engineering graduate, blending creativity and technical skills to build meaningful digital experiences.
 
 ---
 
